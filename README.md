@@ -23,6 +23,53 @@ This is the Curriculum  for [Learn Machine Learning in 3 months (PyTorch Curricu
 -  [Spaces](https://huggingface.co/spaces) to sample demos 
 -  [CoPilot](https://githubnext.com/projects/copilot-labs/) to explain code
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Curriculum Links 
+-----------------------------------------------------
+Month 1: Machine Learning
+
+Week 1: Python Fundamentals - https://allendowney.github.io/DSIRP/i...
+
+Week 2: Math of Machine Learning - 
+http://www.xaktly.com/XMathMain.html
+
+Week 3: Data Analysis - 
+https://www.kaggle.com/learn
+
+Week 4: Machine Learning Techniques - 
+https://github.com/ipython-books/cook... 
+
+Month 2: Deep Learning 
+
+Week 1: Neural Networks
+http://d2l.ai/
+
+Week 2: Transformers
+https://huggingface.co/course/chapter1/1 
+
+Week 3: Diffusers
+https://www.fast.ai/posts/part2-2022-...
+
+Week 4: Deep Reinforcement Learning
+https://simoninithomas.github.io/deep... 
+
+Month 3: Machine Learning Operations
+
+Week 1: Design - 
+https://madewithml.com/
+
+Week 2: Development - 
+https://fullstackdeeplearning.com/cou...
+
+Week 3: Production - 
+https://github.com/DataTalksClub/mlop...
+
+Week 4: Data Engineering - 
+https://github.com/DataTalksClub/data...
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Month 1 - Machine Learning 🔥 
 
 Week 1: [Python Fundamentals (Allen Downey)](https://allendowney.github.io/DSIRP/index.html)
@@ -77,6 +124,6 @@ Week 4: [Data Engineering (DataTalks.CLub Data Engineering ZoomCamp)](https://gi
 
 [Final](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_7_project) - Deploy a Self Driving Car Simulation app. This [Javascript](https://github.com/omuryildirim/before-evening) example is a great starting point. Integrate NLP, Computer Vision, Reinforcement Learning, & ML Ops. 
 
----------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Interview Preparation Study Guide](https://www.techinterviewhandbook.org/)
